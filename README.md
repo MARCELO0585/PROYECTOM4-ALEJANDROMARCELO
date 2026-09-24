@@ -25,7 +25,7 @@ El proyecto está estructurado bajo principios de separación de responsabilidad
 
 1. Clona el repositorio:
    ```bash
-   git clone
+   git clone https://github.com/MARCELO0585/PROYECTOM4-ALEJANDROMARCELO.git
    cd gestor-tareas-pi
    Instala las dependencias:
 
