@@ -49,13 +49,14 @@ Ejecuta el servidor de desarrollo local:
 Bash
 npm run dev
 🌐 URL de Producción
-https://proyectom4am-git-main-marcelo0585.vercel.app/
+https://proyectom4am.vercel.app/
 
 ## ⚠️ Nota Importante sobre AWS SES (Modo Sandbox)
 La funcionalidad de envío de resúmenes por correo electrónico está integrada mediante **AWS SES** ejecutándose a través de funciones serverless. 
 - Debido a las políticas de seguridad de AWS, las cuentas nuevas se encuentran por defecto en **modo Sandbox**. 
 - En este estado, **el sistema solo permite enviar correos electrónicos a la dirección del remitente que ha sido previamente verificada** en la consola de AWS SES. Cualquier intento de enviar correos a usuarios externos no verificados requerirá solicitar el acceso de producción (*Production Access*) en AWS.
 - Correo y contraseña para probar API : alejandropuentesmarcelo@gmail.com, 123456
+
 🤖 Integración de Inteligencia Artificial en el Desarrollo
 La IA fue utilizada como herramienta de apoyo y mentor de código durante todo el proceso de construcción del Proyecto Integrador:
 
