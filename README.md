@@ -57,6 +57,15 @@ La funcionalidad de envío de resúmenes por correo electrónico está integrada
 - En este estado, **el sistema solo permite enviar correos electrónicos a la dirección del remitente que ha sido previamente verificada** en la consola de AWS SES. Cualquier intento de enviar correos a usuarios externos no verificados requerirá solicitar el acceso de producción (*Production Access*) en AWS.
 - Correo y contraseña para probar API : alejandropuentesmarcelo@gmail.com, 123456
 
+- ## 🧪 Testing y Pruebas Unitarias
+El proyecto incluye una suite de pruebas configurada para cumplir con los requisitos de calidad y robustez de la rúbrica:
+- **Herramientas:** Vitest y React Testing Library.
+- **Componentes probados:** Renderizado y comportamiento de componentes clave como `TaskForm`.
+- **Ejecución de pruebas:** 
+  ```bash
+  npm test
+
+  
 🤖 Integración de Inteligencia Artificial en el Desarrollo
 La IA fue utilizada como herramienta de apoyo y mentor de código durante todo el proceso de construcción del Proyecto Integrador:
 
