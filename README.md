@@ -50,7 +50,7 @@ Ejecuta el servidor de desarrollo local:
 Bash
 npm run dev
 🌐 URL de Producción
-Enlace de la aplicación desplegada en Vercel (Pendiente de actualizar tras el deploy)
+https://proyectom4am-git-main-marcelo0585.vercel.app/
 
 🤖 Integración de Inteligencia Artificial en el Desarrollo
 La IA fue utilizada como herramienta de apoyo y mentor de código durante todo el proceso de construcción del Proyecto Integrador:
